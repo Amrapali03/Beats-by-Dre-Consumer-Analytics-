@@ -10,7 +10,7 @@ Feature-Based Comparison: Analyzing review content to understand user feedback o
 Trend and Correlation Insights: Assessing how product ratings, sentiment, and specific attributes correlate over time.
 In-Depth Analysis: Comparing verified vs. unverified purchases, review length and helpfulness, and identifying trends in customer feedback over time.
 
-### 8.3 SWOT Analysis
+### SWOT Analysis
 Conduct a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) for Beats by Dre based on the comparative data.
 
 - Strengths
