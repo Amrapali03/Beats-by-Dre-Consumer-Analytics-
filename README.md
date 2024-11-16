@@ -3,8 +3,10 @@
 ## Project Overview
 This project aims to analyze customer reviews of the newly launched Beats Pill Bluetooth speaker compared to similar products on Amazon. By using sentiment analysis, feature extraction, and detailed data visualization, the project seeks to understand how the Beats Pill is perceived in terms of sound quality, portability, bass performance, and overall user satisfaction.
 
-### The key objectives include:
+- Collab File:https://colab.research.google.com/drive/1xSmMOMkvnOzh7XPOCfXlHgyZtzXxLRhF?usp=sharing#scrollTo=focaGLviUmgE
+- Python Notebook and Results pdf is attached
 
+### The key objectives include:
 Sentiment Analysis: Identifying and categorizing customer sentiments toward Beats and other competing speakers.
 Feature-Based Comparison: Analyzing review content to understand user feedback on specific features like sound quality and portability.
 Trend and Correlation Insights: Assessing how product ratings, sentiment, and specific attributes correlate over time.
